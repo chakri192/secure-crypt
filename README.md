@@ -1,8 +1,8 @@
-# secure-crypt 🔐
+# secure-crypt 
 
 A fast, lightweight CLI utility written in C that encrypts and decrypts files using an XOR cipher. Built with buffered I/O for performance and proper error handling throughout.
 
-> ⚠️ **Note:** XOR encryption with a single-byte key is not cryptographically secure. This project is intended for learning, obfuscation, or CTF use cases — not for protecting sensitive production data.
+> **Note:** XOR encryption with a single-byte key is not cryptographically secure. This project is intended for learning, obfuscation, or CTF use cases — not for protecting sensitive production data.
 
 ---
 
